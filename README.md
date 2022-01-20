@@ -10,7 +10,7 @@ From this result, we know that "r" and "i" must be in the word. We also know tha
 To translate this information into the find_word() function. The find_word function takes 3 parameters find_word(string,must="",never="")
 The second and third parameter are easiest, so let's start with them first. 
 
->>> find_word("",must="ri",never="ato")
+find_word("",must="ri",never="ato")
 
 Now we build our string. 
 
