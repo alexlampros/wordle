@@ -25,7 +25,10 @@ find_word("[^r]\w\w[^i]\w","ri","ato")
 
 The function will return the top 20 words that match our filter setting, sorted by most commonly used words. 
 
-lets try price next
+lets try guessing "price" next
+
+![](https://github.com/alexlampros/wordle/blob/main/images/img2.png)
+
 
 
 
