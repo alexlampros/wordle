@@ -29,6 +29,25 @@ lets try guessing "price" next
 
 ![](https://github.com/alexlampros/wordle/blob/main/images/img2.png)
 
+So close. 
+
+now we update our filter as follows 
+
+find_word("pri\we","prie","atoc")
+[[2107, 'prime'], [4299, 'prize'], [4699, 'pride'], [50951, 'prise'], [61742, 'prine']]
+
+
+hmm.. maybe prize? I have a feeling that wordle and wordle-like engines have a preference for nouns over adjectives, so let's go with that. 
+
+
+
+
+
+
+
+
+
+
 
 
 
