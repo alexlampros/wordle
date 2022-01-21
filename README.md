@@ -40,8 +40,9 @@ First guess: Retail
 
 ```
 find_word("[^r][^e][^t]\w\w\w", "ret", "ail")
-```
+
 [[522, 'street'], [549, 'stores'], [705, 'others'], [1596, 'pretty'], [1648, 'theory'], [1878, 'forest'], [1951, 'poster'], [1991, 'effort'], [2128, 'sorted'], [2154, 'expert'], [2349, 'turned'], [2712, 'hunter'], [2815, 'turkey'], [2988, 'stress'], [2992, 'trends'], [3048, 'poetry'], [3062, 'forget'], [3100, 'export'], [3769, 'puerto'], [3917, 'stored']]
+```
 
 ![](https://github.com/alexlampros/wordle/blob/main/images/img2-2.png)
 
