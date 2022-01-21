@@ -12,7 +12,7 @@ build your string using these keys. 1 key for each character position in the wor
   "[^aey]" means that the letters aey will be excluded from this character position, but may appear elsewhere in the word <br>
   "a" means that an "a" goes in this chracter position. <br><br>
   
-  must="ayi" means that these characters must appear in the word somewhere<br><br>
+  must="ayi" means that these characters must appear in the word somewhere<br>
   never="zqp" means that these characters never appear in the word.<br><br>
 
 
