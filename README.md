@@ -3,7 +3,9 @@
 
 ## Description
 
-Use the ```find_word(string, must="", never="")``` function in wordle.py <br><br>
+Helps you cheat at wordle. 
+
+Use the ```find_word(string, must="", never="")``` function in the wordle.py file <br><br>
 
 build your string using these keys. 1 key for each character position in the word :<br><br>
   "\w" means allow any letter to go in this character position <br>
