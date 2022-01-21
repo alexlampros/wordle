@@ -1,5 +1,5 @@
-# wordle
-Wordle Solver
+# Wordle Solver
+
 
 ## Description
 
