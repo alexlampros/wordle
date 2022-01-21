@@ -47,6 +47,14 @@ find_word("pri\we","prie","atocz")
 
 Okay it's between prime and pride..  I'm still sticking to my noun over adjective theory, so let's go with pride. 
 
+![](https://github.com/alexlampros/wordle/blob/main/images/img4.png)
+
+Boom! 
+
+
+If you get to a situation where you have multiple letters you want to exclude from a position, you can just add them to the brackets. For example, if you want to exlcude "a" and "e" and "n" from a position, you would enter [^aen] into the character position. 
+
+happy wordleing !
 
 
 
