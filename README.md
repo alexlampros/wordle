@@ -31,7 +31,7 @@ find_word("[^r]or[^e]\w[^t]", "ret", "ailfs")
 ```
 [[7899, 'porter'], [11134, 'torque'], [15254, 'cortex'], [16378, 'vortex'], [20010, 'ported'], [26625, 'cortez'], [34141, 'torrey'], [35004, 'mortem'], [40798, 'morten'], [142757, 'tortue'], [153488, 'korten'], [176897, 'tormen'], [186222, 'torney'], [213060, 'horten'], [222867, 'dorter']]
 
-
+![](https://github.com/alexlampros/wordle/blob/main/images/img2-3.png)
 
 
 
