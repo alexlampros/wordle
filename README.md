@@ -35,7 +35,10 @@ find_word("[^r]or[^e]\w[^t]", "ret", "ailfs")
 
 
 
+# Notes:
 
+if you want to exclude multiple letters from a given space, just add them into the brackets: [^aeto]
+This means that none of these letters can appear in the character space.
 
 
 
