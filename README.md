@@ -33,6 +33,8 @@ find_word("\w\w\w[^a][^i][^l]","ail","ret")
 
 ## Example 2
 
+First guess: Retail
+
 ![](https://github.com/alexlampros/wordle/blob/main/images/img2-1.png)
 
 ```
