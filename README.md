@@ -3,7 +3,7 @@
 
 ## Description
 
-Helps you cheat at wordle. 
+Helps you cheat at wordle by filtering dictionary words, and then sorting the remaining candidates by word popularity. 
 
 Use the ```find_word(string, must="", never="")``` function in the wordle.py file <br><br>
 
