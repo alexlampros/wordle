@@ -56,6 +56,9 @@ find_word("[^r]or[^e]\w[^t]", "ret", "ailfs")
 
 ![](https://github.com/alexlampros/wordle/blob/main/images/img2-3.png)
 
+## Don't do this
+
+![](https://github.com/alexlampros/wordle/blob/main/images/common_error.jpg)
 
 
 
