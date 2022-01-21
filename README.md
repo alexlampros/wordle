@@ -39,6 +39,14 @@ find_word("pri\we","prie","atoc")
 
 hmm.. maybe prize? I have a feeling that wordle and wordle-like engines have a preference for nouns over adjectives, so let's go with that. 
 
+![](https://github.com/alexlampros/wordle/blob/main/images/img3.png)
+
+damn!
+find_word("pri\we","prie","atocz")
+[[2107, 'prime'], [4699, 'pride'], [50951, 'prise'], [61742, 'prine']]
+
+Okay it's between prime and pride..  I'm still sticking to my noun over adjective theory, so let's go with pride. 
+
 
 
 
