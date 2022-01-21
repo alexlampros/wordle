@@ -1,6 +1,17 @@
 # wordle
 Wordle Solver
 
+## Description
+
+Use the ```find_word(string, must="", never="")``` function in wordle.py 
+
+build your string using these keys. 1 key for each character position in the word. 
+"\w" means allow any letter to go in this character position
+"[^aey]" means that the letters aey will be excluded from this character position, but may appear elsewhere in the word
+"a" means that an "a" goes in this chracter position. 
+
+
+
 
 ## Example 1: 
 
