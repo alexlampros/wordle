@@ -8,7 +8,10 @@ Use the ```find_word(string, must="", never="")``` function in wordle.py <br><br
 build your string using these keys. 1 key for each character position in the word <br>
   "\w" means allow any letter to go in this character position <br>
   "[^aey]" means that the letters aey will be excluded from this character position, but may appear elsewhere in the word <br>
-  "a" means that an "a" goes in this chracter position. <br>
+  "a" means that an "a" goes in this chracter position. <br><br>
+  
+  must="ayi" means that these characters must appear in the word somewhere<br><br>
+  never="zqp" means that these characters never appear in the word.<br><br>
 
 
 
