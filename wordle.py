@@ -43,7 +43,7 @@ def find_word(string, must="", never=""):
                         
                                 
         
-        return hold
+        return rank_by_pop(hold)[:20]
 
 
 
