@@ -18,6 +18,8 @@ build your string using these keys. 1 key for each character position in the wor
 
 ## Example 1: 
 
+First guess "Retail"
+
 ![](https://github.com/alexlampros/wordle/blob/main/images/img1.png)
 
 ```
